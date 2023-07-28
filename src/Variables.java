@@ -18,5 +18,7 @@ public class Variables {
         int gaaa;
         String prueba_de_commits ="Esta es una prueba de commits";
         int gaaax ;
+        int tercergato = 1212;
+        int cuartocontacto = 11;
     }
 }
