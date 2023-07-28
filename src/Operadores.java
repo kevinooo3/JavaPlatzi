@@ -12,5 +12,7 @@ public class Operadores {
         System.out.println("sufijo summa "+ (100+ j++)); // imprime el ultimo valor de j , no le importa si poner mas o menos cuando usas como variable.
         // prefijo
         System.out.println("prefijo summa "+ (100+ ++j));
+        String prueba1 ;
+
     }
 }
