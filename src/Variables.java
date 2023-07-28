@@ -15,10 +15,6 @@ public class Variables {
         var entero = 12;
         entero = entero/5;
         System.out.println(entero + "AJSDSAKDAJ"); // CONVIERTE A ENTERO EN UNA CADENA Y NO PASA NADA CAUSA
-        int gaaa;
-        String prueba_de_commits ="Esta es una prueba de commits";
-        int gaaax ;
-        int tercergato = 1212;
-        int cuartocontacto = 11;
+
     }
 }
