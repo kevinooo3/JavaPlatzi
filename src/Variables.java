@@ -15,6 +15,7 @@ public class Variables {
         var entero = 12;
         entero = entero/5;
         System.out.println(entero+"AJSDSAKDAJ"); // CONVIERTE A ENTERO EN UNA CADENA Y NO PASA NADA CAUSA
+        int gaaa;
 
     }
 }
