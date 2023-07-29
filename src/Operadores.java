@@ -13,6 +13,7 @@ public class Operadores {
         // prefijo
         System.out.println("prefijo summa "+ (100+ ++j));
 
-
+        int numero =2 ;
+        System.out.println("numerito :"+ (numero++));
     }
 }
