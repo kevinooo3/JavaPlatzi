@@ -7,6 +7,13 @@ public class Funciones {
         System.out.println(mensajeFelicidad());
 
     }
+  //EJEMPLO DE COMO USAR UN JAVADOC
+    // Si es la primera vez para javadoc debe activarlo en File-settings-editor-general-code completion-y activar show the documentation popup
+    /**
+     * Descripcion : Funcion que apaga y setea a false todo lo q le pases
+     * @param x valor entero para pasar.
+     * @retyrb no retorna ni pincho.
+        * */
     // funcion que no retorna nada por eso void
     public static void apagarTodo(int x){
         x++ ;
